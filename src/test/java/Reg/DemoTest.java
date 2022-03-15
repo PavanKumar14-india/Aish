@@ -7,5 +7,6 @@ public class DemoTest {
 	public void demo2()
 	{
 		System.out.println("smoke---Commit");
+		System.out.println("aish---Commit");
 	}
 }
