@@ -8,6 +8,6 @@ public class DemoTest {
 	{
 		System.out.println("smoke---Commit");
 		System.out.println("aish---Commit");
-		System.out.println("aish-every minute check--Commit");
+		System.out.println("aish-every --Commit");
 	}
 }
