@@ -7,5 +7,7 @@ public class Demo2Test {
 	public void demo2()
 	{
 		System.out.println("smoke---Commit");
+		String BROWSER = System.getProperty("browser");
+		System.out.println(BROWSER);
 	}
 }
